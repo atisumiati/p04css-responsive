@@ -1,0 +1,27 @@
+body{
+    background: #008B8B;
+}
+.warp{
+    width: 40px;
+    margin: auto;
+    color: white;
+    border-radius: 10px;
+    font-family: comic sans ms;
+    background.color: #008B8B;
+}
+.container{
+    padding: 5px;
+}
+table{
+    margin: auto;
+}
+table{
+    padding: 5px;
+}
+button{
+    width: 50px;
+    font-family: comic sans ms;
+    height: 10px;
+    background-color: #00ced1;
+    background.radius: 7px;
+}
